@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>澳洲打工度假實用英文</title>
+    <link>https://kai-1130.github.io/aussie-english-podcast/</link>
+    <atom:link href="https://kai-1130.github.io/aussie-english-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-TW</language>
+    <description>給準備去澳洲打工度假的人：每天一個實用情境（求職、入境、租屋、工地、點餐、社交），中文解說、澳洲口音英文例句與澳洲口語。</description>
+    <itunes:summary>給準備去澳洲打工度假的人：每天一個實用情境（求職、入境、租屋、工地、點餐、社交），中文解說、澳洲口音英文例句與澳洲口語。</itunes:summary>
+    <itunes:author>澳洲打工度假實用英文</itunes:author>
+    <itunes:image href="https://kai-1130.github.io/aussie-english-podcast/cover.jpg"/>
+    <image><url>https://kai-1130.github.io/aussie-english-podcast/cover.jpg</url><title>澳洲打工度假實用英文</title><link>https://kai-1130.github.io/aussie-english-podcast/</link></image>
+    <itunes:category text="Education"><itunes:category text="Language Learning"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Thu, 26 Nov 2026 14:41:08 +0800</lastBuildDate>
+    <item>
+      <title>第1集｜求職自我介紹</title>
+      <description>2026-11-22｜分類：求職面試｜求職自我介紹</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-22_001.mp3" length="849043" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-22-d1709da7</guid>
+      <pubDate>Sun, 22 Nov 2026 08:00:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>第2集｜揪人打匹克球</title>
+      <description>2026-11-22｜分類：社交運動｜揪人打匹克球</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-22_002.mp3" length="986551" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-22-bf8b59e0</guid>
+      <pubDate>Sun, 22 Nov 2026 08:00:02 +0800</pubDate>
+    </item>
+    <item>
+      <title>第3集｜機場入境</title>
+      <description>2026-11-23｜分類：入境與行政｜機場入境</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-23_003.mp3" length="1715678" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-23-98661293</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:03 +0800</pubDate>
+    </item>
+    <item>
+      <title>第4集｜工地與職場用語</title>
+      <description>2026-11-24｜分類：職場與工地｜工地與職場用語</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-24_004.mp3" length="2041068" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-24-f3ce8d1c</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:04 +0800</pubDate>
+    </item>
+    <item>
+      <title>第5集｜租房看房</title>
+      <description>2026-11-25｜分類：居住租屋｜租房看房</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-25_005.mp3" length="1851512" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-25-3865c7ea</guid>
+      <pubDate>Wed, 25 Nov 2026 08:00:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>第6集｜點餐購物</title>
+      <description>2026-11-26｜分類：飲食購物｜點餐購物</description>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://kai-1130.github.io/aussie-english-podcast/episodes/2026-11-26_006.mp3" length="1819329" type="audio/mpeg"/>
+      <guid isPermaLink="false">aussie-english-2026-11-26-240c52ed</guid>
+      <pubDate>Thu, 26 Nov 2026 08:00:06 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
